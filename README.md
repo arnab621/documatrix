@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/GraphRAG-Enabled-orange.svg" alt="GraphRAG">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
   <br>
-  <img src="https://img.shields.io/github/stars/yourusername/documatrix?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/documatrix?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/watchers/yourusername/documatrix?style=social" alt="GitHub Watchers">
-  <img src="https://img.shields.io/github/issues/yourusername/documatrix" alt="GitHub Issues">
 </div>
 
 
