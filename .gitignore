@@ -39,3 +39,6 @@ Thumbs.db
 
 # Docker
 .dockerignore
+
+# Image generation scripts
+create_readme_images.py
