@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/github/issues/yourusername/documatrix" alt="GitHub Issues">
 </div>
 
-A GraphRAG-powered document analysis application that combines vector search with graph traversal for intelligent document analysis and chat. Analyze any type of document - contracts, research papers, reports, and more.
+
+A **GraphRAG**-powered document analysis application that combines vector search with graph traversal for intelligent document analysis and chat. Analyze any type of document - contracts, research papers, reports, and more.
 
 ### Special thanks and mention - @Windsurf
 
@@ -133,3 +134,6 @@ graph TD
 - **Document Processing**: MarkItDown for multi-format support
 - **Graph**: NetworkX for relationship modeling
 - **Package Management**: UV for fast dependency resolution
+
+### References
+https://microsoft.github.io/graphrag/
