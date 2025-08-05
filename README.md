@@ -14,6 +14,8 @@
 
 A GraphRAG-powered document analysis application that combines vector search with graph traversal for intelligent document analysis and chat. Analyze any type of document - contracts, research papers, reports, and more.
 
+###Special thanks and mention - Windsurf
+
 ## 📸 Screenshots
 
 ### Main Interface
